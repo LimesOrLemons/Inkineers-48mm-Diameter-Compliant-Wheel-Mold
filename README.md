@@ -11,6 +11,7 @@ Engineered specifically for the dynamic game element interaction requirements of
 | Parameter | Specification |
 | :--- | :--- |
 | **Outer Diameter** | ~48 mm |
+| **Hub Bore**| 8mm REX, 7mm Hex Shafting |
 | **Designed By** | FTC Team 21982 Inkineers |
 | **Material Target** | Alumilite Amazing Mold Maker (Platinum Silicone) / Cast Urethanes |
 | **Intended Application** | High-Grip Compliance & Intake Mechanisms |
