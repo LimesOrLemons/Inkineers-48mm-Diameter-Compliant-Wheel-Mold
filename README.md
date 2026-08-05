@@ -1,4 +1,4 @@
-# 48mm Custom Cast Wheel Mold | FTC DECODE (2025–2026)
+# 48mm Custom Compliant Mold Wheel | FTC DECODE (2025–2026)
 
 A specialized multi-piece wheel mold designed by **FTC Team 21982 Inkineers** for casting high-performance, custom-durometer intake and compliance wheels using **Alumilite Amazing Mold Maker**. 
 
