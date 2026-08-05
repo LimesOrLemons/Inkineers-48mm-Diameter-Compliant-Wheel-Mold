@@ -23,7 +23,7 @@ Engineered specifically for the dynamic game element interaction requirements of
 * **High-Grip Tread Geometry:** Features an aggressive scalloped/scallop-ridged outer perimeter designed to maximize surface contact and friction against game elements.
 * **Tuned Compliance Spoke Web:** Curved internal 4-spoke structural web allows local deformation under compression, absorbing impact while maintaining axial driving torque.
 * **Precision Mold Retention:** Integrated alignment tabs and perimeter bolt bosses ensure tight seal compression, minimizing resin flash and seam lines during curing.
-* **Very Bouncy**
+* **Very Bouncy:** Very fun to throw around.
 
 ---
 
