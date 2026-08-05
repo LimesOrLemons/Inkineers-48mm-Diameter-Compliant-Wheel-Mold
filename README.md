@@ -45,5 +45,6 @@ Note: When removing the mold, disassemble the mold frame first and take the whee
 ## Pictures!
 
 Don't let these images deter you... I'm not a photographer.
+
 <img width="836" height="661" alt="image" src="https://github.com/user-attachments/assets/e4ccfd36-2bbd-45ca-a794-38a2f00131c7" />
 <img width="1045" height="890" alt="image" src="https://github.com/user-attachments/assets/0f076c71-1c08-415d-a13c-9fb8000da3e6" />
